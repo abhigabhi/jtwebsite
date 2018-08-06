@@ -2072,3 +2072,7 @@ p.copy-right a:hover {
     }
 }
 /*--//responsive--*/
+
+.about-list ul li {
+    line-height: 2.4em;
+}
